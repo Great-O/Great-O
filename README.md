@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Great-O
-- 👀 I’m interested in Reading and Programming
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on Front-end programming
+- 👀 I’m interested in Reading and Pen Testing
+- 🌱 I’m currently learning Cyber security
+- 💞️ I’m looking to collaborate on CTFs and Bug bounties
 - 📫 How to reach me; osehgreat3@gmail.com
 
 <!---
